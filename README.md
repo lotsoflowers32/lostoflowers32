@@ -33,11 +33,6 @@
 ![Git](https://img.shields.io/badge/Git-FFF0F5?style=flat-square&logo=git&logoColor=9F5277)
 ![VS Code](https://img.shields.io/badge/VS_Code-FFF0F5?style=flat-square&logo=visualstudiocode&logoColor=9F5277)
 
-### ୨୧ GitHub stats ୨୧
-
-<img src="https://github-readme-stats.vercel.app/api?username=lotsoflowers32&show_icons=true&hide_border=true&bg_color=FFF8FB&title_color=BA6B91&text_color=865D73&icon_color=E7A3C1" alt="GitHub statistics" height="160" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lotsoflowers32&layout=compact&hide_border=true&bg_color=FFF8FB&title_color=BA6B91&text_color=865D73" alt="Most used languages" height="150" />
 
 <img src="./assets/pink-ribbon.gif" alt="Animated pastel pink ribbon" width="240" />
 
